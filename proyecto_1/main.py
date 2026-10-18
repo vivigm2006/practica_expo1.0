@@ -4,7 +4,7 @@ def calcular_estadisticas(numeros):
     promedio = total / len(numeros)
     return total, promedio
 
-datos = [10, 20, 30, 40, 50]
+datos = [10, 20, 30, 40, 60]
 suma, media = calcular_estadisticas(datos)
 
 print(f"Resultados del analisis:")

@@ -1,0 +1,1 @@
+API_KEY = "12345_token_secreto_de_prueba"
